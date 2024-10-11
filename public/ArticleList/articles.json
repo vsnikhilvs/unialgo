@@ -1,0 +1,38 @@
+{
+    "categories": [
+        {
+            "categoryName": "Programming Languages",
+            "articles": [
+                {
+                    "title": "Learn Python",
+                    "subtitle": "Introduction to Python",
+                    "image": "https://unialgo.web.app/asset/logo.png",
+                    "description": "This is an article about Python."
+                },
+                {
+                    "title": "Learn JavaScript",
+                    "subtitle": "Introduction to JavaScript",
+                    "image": "https://unialgo.web.app/asset/logo.png",
+                    "description": "This is an article about JavaScript."
+                }
+            ]
+        },
+        {
+            "categoryName": "Data Structures",
+            "articles": [
+                {
+                    "title": "Binary Trees",
+                    "subtitle": "Understanding Binary Trees",
+                    "image": "https://unialgo.web.app/asset/logo.png",
+                    "description": "This is an article about binary trees."
+                },
+                {
+                    "title": "Graphs",
+                    "subtitle": "Introduction to Graphs",
+                    "image": "https://unialgo.web.app/asset/logo.png",
+                    "description": "This is an article about graphs."
+                }
+            ]
+        }
+    ]
+}
